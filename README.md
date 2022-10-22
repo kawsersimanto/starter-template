@@ -1,2 +1,2 @@
 # starter-template
-basic starter template for html, css, bootstrap, javascript with file link ups.
+starter template for html, css, bootstrap, javascript projects with file link ups.
