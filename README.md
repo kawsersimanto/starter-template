@@ -16,9 +16,7 @@ starter template for html, css, bootstrap 5, javascript projects with file link 
 ## How to get started
 
 ```javascript
-1) Downlod the zip file.
-2) Unzip downloaded zip file.
-3) Start working on it.
+gh repo clone kawsersimanto/starter-template
 ```
 
 
